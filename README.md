@@ -18,4 +18,4 @@ Convert your PDF files to TXT files offline, and instantly with a short and simp
 
 5.) Place your pdf file in the same folder as the python file, and rename it to "file.pdf"
 
-6.) Now simply open the file and run it, you should have a converted "file.txt" file in the same folder instantly!
+6.) Now simply open the python file and run it, you should have a converted "file.txt" file in the same folder instantly!
