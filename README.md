@@ -11,6 +11,7 @@ Convert your PDF files to TXT files offline, and instantly with a short and simp
 2.) Add Python to the PATH variable
 
 3.) Open Command Prompt and run the following command
+
     pip install PyPDF2
 
 4.) Download the PdfToText.py file from the repository
